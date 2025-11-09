@@ -27,6 +27,8 @@ Strix
 :star: _Love Strix? Give us a star to help other developers discover it!_
 
 <br />
+ookay okay rishi
+
 
 <div align="center">
 <img src=".github/screenshot.png" alt="Strix Demo" width="800" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.2); transform: perspective(1000px) rotateX(2deg); transition: transform 0.3s ease;">
